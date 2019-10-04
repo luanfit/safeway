@@ -1,0 +1,62 @@
+keywords:
+# Generic suspicious
+    'marketdata': 70
+    'cbmm': 70
+    'sofisa': 70
+
+# Miscellaneous & SE tricks
+    'cgi-bin': 50
+    '-com.': 20
+    '.net-': 20
+    '.org-': 20
+    '.com-': 20
+    '.net.': 20
+    '.org.': 20
+    '.com.': 20
+    '.gov-': 30
+    '.gov.': 30
+    '.gouv-': 40
+    '-gouv-': 40
+    '.gouv.': 40
+    # FR specific
+    'suivi': 50
+    'laposte': 50
+
+tlds:
+    '.ga':
+    '.gq':
+    '.ml':
+    '.cf':
+    '.tk':
+    '.xyz':
+    '.pw':
+    '.cc':
+    '.club':
+    '.work':
+    '.top':
+    '.support':
+    '.bank':
+    '.info':
+    '.study':
+    '.click':
+    '.country':
+    '.stream':
+    '.gdn':
+    '.mom':
+    '.xin':
+    '.kim':
+    '.men':
+    '.loan':
+    '.download':
+    '.racing':
+    '.online':
+    '.center':
+    '.ren':
+    '.gb':
+    '.win':
+    '.review':
+    '.vip':
+    '.party':
+    '.tech':
+    '.science':
+    '.business':
